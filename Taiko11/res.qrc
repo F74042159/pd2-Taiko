@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>picture/drum_blue.png</file>
+        <file>picture/drum_red.png</file>
+        <file>picture/background.png</file>
+        <file>picture/target.png</file>
+        <file>picture/start.jpg</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>music/drum.mp3</file>
+        <file>music/bg.mp3</file>
+    </qresource>
+</RCC>
