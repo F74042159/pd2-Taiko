@@ -1,2 +1,3 @@
 # pd2-Taiko
-no use mainwindow.h, mainwindow.cpp, mainwindow.ui(just ignore them)
+just ignore Taiko11
+the final version is Taiko10
